@@ -1,4 +1,4 @@
-# Hi 👋, I'm Umesha
+# Hi 👋, I'm Yumesha
 
 ### Software Engineer | Full-Stack & Mobile Developer | IoT & Robotics Enthusiast
 
