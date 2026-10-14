@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4338CA,100:06B6D4&height=240&section=header&text=Yumesha&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descSize=17&descAlignY=57" alt="Yumesha profile banner" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Yumesha&fontSize=70&fontColor=FFFFFF" alt="Yumesha Banner" />
+
 
 ### ⚡ Code • Create • Connect • Innovate
 
